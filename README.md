@@ -51,7 +51,7 @@ Website
     <h2>Contact Justin Schwab</h2>
     <p>Ready to get started on your next project? Let’s build something amazing.</p>
     <p>📞 <a href="tel:+13854777924">(385) 477-7924</a></p>
-    <p>📧 <a href="mailto:justin@example.com">justin@example.com</a></p>
+    <p>📧 <a href="mailto:jschwab87@icloud.com">justin@example.com</a></p>
     <p>Licensed & insured • Free estimates • Based in Utah</p>
   </section>
 
